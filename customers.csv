@@ -1,0 +1,11 @@
+customer_id,customer_name,gender,city,join_date
+1,andi,m,jakarta,2023-02-10
+2,budi,m,bandung,2023-03-15
+3,citra,f,surabaya,2023-05-01
+4,dina,f,yogyakarta,2023-06-20
+5,eko,m,medan,2023-08-11
+6,fitri,f,bandung,2023-09-05
+7,gilang,m,jakarta,2023-11-02
+8,hendra,m,semarang,2024-01-19
+9,intan,f,malang,2024-03-08
+10,joko,m,depok,2024-05-12
